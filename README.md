@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Complaint Management System 🏙️
 
 A smart civic complaint management platform where users can register complaints about issues like potholes, garbage, or water leaks, and track their resolution. Built using the MERN stack with Tailwind CSS and Cloudinary integration.
@@ -32,3 +33,6 @@ cd your-repo-name
 npm install
 cd client
 npm install
+=======
+# City-Complaints-System
+>>>>>>> 2b8c2eac1146461a4d84557ec7aba02c43715f9d
